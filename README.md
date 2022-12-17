@@ -13,11 +13,11 @@ Here are some of the projects I'm currently working on:
 
 ## Skills
 
-- Linux 🐧
-- Penetration testing 🕵️‍♂️
-- Web development (HTML, CSS, JavaScript, React, Node.js) 🌐
-- Machine learning (Python, Pandas, Numpy, scikit-learn, TensorFlow) 🤖
-- Emacs 🐘
+- 🐧 Linux
+- 🕵️‍♂️ Penetration testing
+- 🌐 Web development (HTML, CSS, JavaScript, React, Node.js)
+- 🤖 Machine learning (Python, Pandas, Numpy, scikit-learn, TensorFlow)
+- 🐘 Emacs
 
 
 ## Contact
