@@ -1,6 +1,6 @@
 # Akhil's GitHub Account
 
-Hi there! I'm Akhil, a Linux enthusiast, pentester, web developer, and data scientist. I'm passionate about using technology to solve problems and create value.
+Hi there! I'm Akhil, a Linux enthusiast, pentester, web developer, and Machine Learning enthusiast. I'm passionate about using technology to solve problems and create value.
 
 ## Projects
 
