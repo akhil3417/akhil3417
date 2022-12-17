@@ -1,6 +1,6 @@
 # Akhil's GitHub Account
 
-Hi there! I'm Akhil, a Linux enthusiast, pentester, web developer, and Machine Learning enthusiast. I'm passionate about using technology to solve problems and create value.
+Hi there! I'm Akhil, a Linux enthusiast, pentester, web developer, and Machine Learning enthusiast.I'm also a hardcore Emacs user and I love customizing my editor to boost my productivity. I'm passionate about using technology to solve problems and create value.
 
 ## Projects
 
@@ -15,6 +15,7 @@ Here are some of the projects I'm currently working on:
 - Linux
 - Penetration testing
 - Web development (HTML, CSS, JavaScript, React, Node.js)
+- Emacs
 
 
 ## Contact
