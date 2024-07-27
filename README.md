@@ -22,5 +22,5 @@ Here are some of the projects I'm currently working on:
 
 ## Contact
 
-You can find me on LinkedIn or drop me an email at [akhil@notsuretoaddemail.com](mailto:akhil@notsuretoaddemail.com). I'm always open to discussing new ideas and opportunities.
+telegram : @fedora32
 💬
