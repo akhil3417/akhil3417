@@ -15,6 +15,7 @@ Here are some of the projects I'm currently working on:
 
 - 🐧 Linux
 - 🕵️‍♂️ Penetration testing
+- Frontend Dev
 - 🌐 Web development (HTML, CSS, JavaScript, React, Node.js)
 - 🤖 Machine learning (Python, Pandas, Numpy, scikit-learn, TensorFlow)
 - 🐘 Emacs
